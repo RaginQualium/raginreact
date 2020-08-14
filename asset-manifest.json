@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/raginreact/static/css/main.5f361e03.chunk.css",
+    "main.js": "/raginreact/static/js/main.21cd16f5.chunk.js",
+    "main.js.map": "/raginreact/static/js/main.21cd16f5.chunk.js.map",
+    "runtime-main.js": "/raginreact/static/js/runtime-main.1de832a8.js",
+    "runtime-main.js.map": "/raginreact/static/js/runtime-main.1de832a8.js.map",
+    "static/js/2.74e1ad95.chunk.js": "/raginreact/static/js/2.74e1ad95.chunk.js",
+    "static/js/2.74e1ad95.chunk.js.map": "/raginreact/static/js/2.74e1ad95.chunk.js.map",
+    "index.html": "/raginreact/index.html",
+    "precache-manifest.82a904e5413e552f80bf7c4bf85cee01.js": "/raginreact/precache-manifest.82a904e5413e552f80bf7c4bf85cee01.js",
+    "service-worker.js": "/raginreact/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/raginreact/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.74e1ad95.chunk.js.LICENSE.txt": "/raginreact/static/js/2.74e1ad95.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1de832a8.js",
+    "static/js/2.74e1ad95.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.21cd16f5.chunk.js"
+  ]
+}
