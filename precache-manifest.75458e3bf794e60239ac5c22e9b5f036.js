@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "504d693f4276d075c95230473d9999a2",
+    "revision": "de4a61dee682e0afd39b9e0b7aeadd12",
     "url": "/raginreact/index.html"
   },
   {
-    "revision": "ec83b8b3e2f59dfc76e8",
+    "revision": "f0452c20e4171dc498a1",
     "url": "/raginreact/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/raginreact/static/js/2.74e1ad95.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ec83b8b3e2f59dfc76e8",
-    "url": "/raginreact/static/js/main.21cd16f5.chunk.js"
+    "revision": "f0452c20e4171dc498a1",
+    "url": "/raginreact/static/js/main.2e25f3f3.chunk.js"
   },
   {
     "revision": "dc072da644be0533aef6",
