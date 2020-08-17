@@ -3,6 +3,10 @@
     align-items: center;
     justify-content: space-between;
     padding: 20px;
+    position: sticky;               /* make header stick to the top */
+    top:0;
+    z-index: 100;                   /* height of sticky */
+    background-color: white;      /* dont want transparent */
 }
 
 .header__logo {
