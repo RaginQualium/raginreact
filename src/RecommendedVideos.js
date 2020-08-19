@@ -78,7 +78,7 @@ function RecommendedVideos() {
                     view="1.5M views"
                     timestamp="2 days ago"
                     channelImage="https://yt3.ggpht.com/a-/AOh14GhOUP_9re93yOMdN4RLQLHl6Mbk6vmUS1524w=s68-c-k-c0x00ffffff-no-rj-mo"
-                    channel="Ragin Technology"
+                    channel="Ragin"
                     image="https://i.ytimg.com/vi/f7T48W0cwXM/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDb-qyj2scW4xXIGnQX8skGWKF4dw"/>
                 <VideoCard
                     title="The truth about mechanical keyboards"
@@ -92,7 +92,7 @@ function RecommendedVideos() {
                     view="2.5M views"
                     timestamp="3 days ago"
                     channelImage="https://yt3.ggpht.com/a-/AOh14GhX1kTmCNgahq2-PG6cV6fW9V75FAi1ECaoDg=s68-c-k-c0x00ffffff-no-rj-mo"
-                    channel="MGM Technology"
+                    channel="MGM"
                     image="https://i.ytimg.com/vi/t1aXuJkmTg8/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDapi4poBGJzUziN5WVJRpDzVpE_g"/>
             </div>
         </div>

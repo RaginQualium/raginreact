@@ -3,21 +3,31 @@ import React from 'react';
 import Header from './Header';
 import Sidebar from './Sidebar';
 import RecommendedVideos from './RecommendedVideos';
+
+import {
+    BrowserRouter as Router,
+    Switch,
+    Route
+  } from "react-router-dom";
 import './App.css';
 
 function App() {
     return (
-        <div className="app">
-            {/* BEM class naming convention */}
-            {/* header -> <Header /> */}
-            <Header/> 
-            <div className="app__page">
-              {/* sidebar -> <Sidebar >  */}
-              <Sidebar />
-              {/* recommended videos ->  */}
-              <RecommendedVideos/>
-            </div>
-
+        <div className="app">{/* BEM class naming convention */}
+            <Router>
+                <Header/> 
+                <Switch>
+                    <Route path="/search/:searchTerm">
+                        <h1>Search page</h1>
+                    </Route>
+                    <Route path="/">
+                        <div className="app__page">
+                            <Sidebar />
+                            <RecommendedVideos/>
+                        </div>
+                    </Route>
+                </Switch>
+            </Router>
         </div>
     );
 }
