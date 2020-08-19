@@ -11,8 +11,8 @@
     margin-bottom: 20px;
 }
 
+/* apply wrapping when browser windows is resized */
 .recommendedVideos__videos {
     display: flex; 
     flex-wrap: wrap;
-
 }
