@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/raginreact/precache-manifest.75458e3bf794e60239ac5c22e9b5f036.js"
+  "/raginreact/precache-manifest.da38d7484ff6e9705048ca5fc08dbcf0.js"
 );
 
 self.addEventListener('message', (event) => {
