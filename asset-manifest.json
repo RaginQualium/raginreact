@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/raginreact/static/css/main.5336963d.chunk.css",
-    "main.js": "/raginreact/static/js/main.efe82009.chunk.js",
-    "main.js.map": "/raginreact/static/js/main.efe82009.chunk.js.map",
+    "main.css": "/raginreact/static/css/main.5d74e6c1.chunk.css",
+    "main.js": "/raginreact/static/js/main.d4ed77ca.chunk.js",
+    "main.js.map": "/raginreact/static/js/main.d4ed77ca.chunk.js.map",
     "runtime-main.js": "/raginreact/static/js/runtime-main.1de832a8.js",
     "runtime-main.js.map": "/raginreact/static/js/runtime-main.1de832a8.js.map",
-    "static/js/2.af0ea17e.chunk.js": "/raginreact/static/js/2.af0ea17e.chunk.js",
-    "static/js/2.af0ea17e.chunk.js.map": "/raginreact/static/js/2.af0ea17e.chunk.js.map",
+    "static/js/2.2f54c8a9.chunk.js": "/raginreact/static/js/2.2f54c8a9.chunk.js",
+    "static/js/2.2f54c8a9.chunk.js.map": "/raginreact/static/js/2.2f54c8a9.chunk.js.map",
     "index.html": "/raginreact/index.html",
-    "precache-manifest.da38d7484ff6e9705048ca5fc08dbcf0.js": "/raginreact/precache-manifest.da38d7484ff6e9705048ca5fc08dbcf0.js",
+    "precache-manifest.184219e0b8dc0e656cb364bd4114d7f9.js": "/raginreact/precache-manifest.184219e0b8dc0e656cb364bd4114d7f9.js",
     "service-worker.js": "/raginreact/service-worker.js",
-    "static/css/main.5336963d.chunk.css.map": "/raginreact/static/css/main.5336963d.chunk.css.map",
-    "static/js/2.af0ea17e.chunk.js.LICENSE.txt": "/raginreact/static/js/2.af0ea17e.chunk.js.LICENSE.txt"
+    "static/css/main.5d74e6c1.chunk.css.map": "/raginreact/static/css/main.5d74e6c1.chunk.css.map",
+    "static/js/2.2f54c8a9.chunk.js.LICENSE.txt": "/raginreact/static/js/2.2f54c8a9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1de832a8.js",
-    "static/js/2.af0ea17e.chunk.js",
-    "static/css/main.5336963d.chunk.css",
-    "static/js/main.efe82009.chunk.js"
+    "static/js/2.2f54c8a9.chunk.js",
+    "static/css/main.5d74e6c1.chunk.css",
+    "static/js/main.d4ed77ca.chunk.js"
   ]
 }
